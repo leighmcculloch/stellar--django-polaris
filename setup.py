@@ -37,7 +37,7 @@ setup(
         "cffi==1.14.0",
         "chardet==3.0.4",
         "crc16==0.1.1",
-        "django==2.2.10",
+        "django==2.2.13",
         "django-appconf==1.0.3",
         "django-compressor==2.4",
         "django-cors-headers==3.2.1",
