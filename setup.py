@@ -29,7 +29,7 @@ setup(
     package_dir={"": "polaris"},
     packages=find_packages("polaris"),
     install_requires=[
-        "aiohttp==3.6.2",
+        "aiohttp==3.7.4",
         "aiohttp-sse-client==0.1.6",
         "async-timeout==3.0.1",
         "attrs==19.3.0",
